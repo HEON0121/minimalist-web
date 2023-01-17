@@ -160,11 +160,13 @@ nav svg {
 @media screen and (min-width: 768px){
     
     
-    
     .videos {
         display: flex;
-        gap: 1rem;
+        justify-content: space-evenly;
+        
+        
     }
+    
     .about {
         display: flex;
         gap: 5rem;
